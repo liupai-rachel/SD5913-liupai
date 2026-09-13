@@ -8,9 +8,9 @@ I don't think the answer is that every designer needs to become a programmer. In
 
 My background is in product design, but my practice has gradually moved across graphic design, UI/UX, service design, and HCI. What connects these areas for me is not a particular software or skill. It is the question of how people interact with things, information, and systems. This is also why programming feels relevant to me, even though I do not plan to become a programmer.
 
-This became clearer to me when I worked on ‘Echoes of the City’, a project about how people explore the history and culture of Hong Kong. At first, it might look like a project about visual design or an interface. But the more I worked on it, the more I realised that the important questions were about the experience itself. When should a user receive information? What should happen when they arrive at a particular place? Should they read something, look at something, listen to something, or interact with it? How can historical information become part of the experience of exploring a city instead of just another piece of information on a screen?
+This became clearer to me when I worked on‘Echoes of the City’. The project is an interactive, location-based platform that connects Hong Kong's cultural stories to the places where people actually encounter them. The user journey is simple: open a map, find nearby story points, select a place, experience its video, audio, or archival images, and then explore related places and context.
 
-These are design decisions. An AI could potentially help me implement them. It could generate the interface or write the interaction behind it. But it cannot replace the reason I chose one interaction instead of another.
+What matters to me here is not only whether the final interface works. I have to decide what the user should see first, how a physical location connects to digital information, and when the experience should encourage the user to move deeper into a story. AI could probably help me build the map, write the interface logic, or generate parts of the code. But it cannot remove the design decisions behind those interactions. The important question is still: what kind of relationship do I want the user to have with this place?
 
 This is where I think programming becomes relevant to me.
 
