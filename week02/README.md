@@ -1,4 +1,4 @@
-# Why Am I Learning Programming?
+Why Am I Learning Programming?
 
 I have never written a program before. So when I started learning programming in 2026, my first reaction was actually a question: why?
 
@@ -6,9 +6,9 @@ AI can already generate working code from a sentence. It can make a website, cre
 
 I don't think the answer is that every designer needs to become a programmer. In fact, I expect the opposite. Designers may write less and less code in the future. But I think there is still a difference between being able to ask a machine to make something and being able to understand what you are asking it to make.
 
-My background is in product design, but my work has moved across different areas: graphic design, UI/UX, product design, service systems and HCI. Although these areas look different, I have noticed that I am usually not just designing an object. I am designing relationships. I think about what a person sees, what they do next, how a system responds, and how different parts of an experience connect.
+My background is in product design, but my practice has gradually moved across graphic design, UI/UX, service design, and HCI. What connects these areas for me is not a particular software or skill. It is the question of how people interact with things, information, and systems. This is also why programming feels relevant to me, even though I do not plan to become a programmer.
 
-This became clearer to me when I worked on *Echoes of the City*, a project about how people explore the history and culture of Hong Kong. At first, it might look like a project about visual design or an interface. But the more I worked on it, the more I realised that the important questions were about the experience itself. When should a user receive information? What should happen when they arrive at a particular place? Should they read something, look at something, listen to something, or interact with it? How can historical information become part of the experience of exploring a city instead of just another piece of information on a screen?
+This became clearer to me when I worked on ‘Echoes of the City’, a project about how people explore the history and culture of Hong Kong. At first, it might look like a project about visual design or an interface. But the more I worked on it, the more I realised that the important questions were about the experience itself. When should a user receive information? What should happen when they arrive at a particular place? Should they read something, look at something, listen to something, or interact with it? How can historical information become part of the experience of exploring a city instead of just another piece of information on a screen?
 
 These are design decisions. An AI could potentially help me implement them. It could generate the interface or write the interaction behind it. But it cannot replace the reason I chose one interaction instead of another.
 
